@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Augmented VIewPager'
+rootProject.name='Augmented ViewPager'
